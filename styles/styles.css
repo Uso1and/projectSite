@@ -1,0 +1,10 @@
+:root{
+    --dark: #1c1c1c;
+    --accent: #f13939;
+    --light: #b5b0ca;
+    --white: #FFFFFF;
+
+}   
+.header{
+    background-color: var(--dark);
+}
